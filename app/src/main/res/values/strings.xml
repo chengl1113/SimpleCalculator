@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="number_input_text">First number</string>
+    <string name="number_input_text_two">Second number</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="multiply_sign">x</string>
+    <string name="divide_sign">/</string>
+    <string name="modulus_sign">%</string>
+    <string name="calculate_button">Calculate</string>
+</resources>
